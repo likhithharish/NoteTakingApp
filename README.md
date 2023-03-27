@@ -1,6 +1,6 @@
 # NoteTakingApp
 Technologies: Android Jetpack Compose / Clean Architecure / MVVM / Canvas / ROOM / Dagger- HILT
-<hr>
+<hr></hr>
 [APK File](assets/attachments/Notium.apk)
 
 <div>
